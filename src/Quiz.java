@@ -129,7 +129,7 @@ public class Quiz {
         questao1.setOpcaoB("B - idade = 25");
         questao1.setOpcaoC("C - idade 25");
         questao1.setOpcaoD("D - int idade");
-        questao1.setOpcaoE("E - idade = \"25\"");
+        questao1.setOpcaoE("E - idade = \"25"\"");
         questao1.setCorreta("A");
         questao1.escrevaQuestao();
         respostaUsuario = leiaResposta();
